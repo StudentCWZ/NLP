@@ -1,5 +1,5 @@
 # NLP
-Natural language processing in action
+Natural Language Processing Core Technology and Algorithm with Python
 ## Course content
 - NLP Basics
 - Analysis of NLP front-end technology
